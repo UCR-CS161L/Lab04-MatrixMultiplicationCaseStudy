@@ -27,7 +27,8 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"mshr-h.veriloghdl"
+				"ms-vscode.cmake-tools",
+				"ms-vscode.cpptools"
 			]
 		}
 	},

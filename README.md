@@ -34,13 +34,13 @@ Once the executables are built, they can be run to observe how long matrix multi
 The following is an example of running a single experiment for row major matrix multiplication:
 
 ```sh
-build/matrix-mul-row-major 100 # run matrix multiplication with 100 X 100 matrix
+./build/matrix-mul-row-major 100 # run matrix multiplication with 100 X 100 matrix
 ```
 
 The folling is an example of running a single experiment for column major matrix multiplication:
 
 ```sh
-build/matrix-mul-col-major 100 # run matrix multiplication with 100 X 100 matrix
+./build/matrix-mul-col-major 100 # run matrix multiplication with 100 X 100 matrix
 ```
 
 ### Collecting Experimental Data
