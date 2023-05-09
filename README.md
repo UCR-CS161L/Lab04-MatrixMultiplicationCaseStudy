@@ -5,7 +5,7 @@
 For the lab this week you are also expected to perform a simple case study. It is meant to show
 how important understanding a computer's architecture is, and the compiler is when developing
 efficient code. For this study, you are to compare and analyze the execution time of the two
-programs given [here](./case_study.tar.gz). You should run a number of experiments varying the input size from 100
+programs given in this repository in the files [program0.cpp](./program0.cpp) and [program1.cpp](./program1.cpp). You should run a number of experiments varying the input size from 100
 to 30,000. Based on the results you are to write a report of your findings. The report should
 contain a graph of your data and a useful analysis of it. You should draw conclusions based on
 your findings. Reports that simply restate what is in the graph will not get credit. To make it
